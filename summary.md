@@ -20,3 +20,7 @@ This project involved creating a high-end, responsive personal landing page for 
 
 ## Repository
 Final code is hosted at: [https://github.com/Amu-Mike/0225DRL-DIC1.git](https://github.com/Amu-Mike/0225DRL-DIC1.git)
+
+## Demo
+Live site: [https://amu-mike.github.io/0225DRL-DIC1/](https://amu-mike.github.io/0225DRL-DIC1/)
+
